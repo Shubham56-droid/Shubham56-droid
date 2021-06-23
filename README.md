@@ -1,5 +1,5 @@
 ### Hi 👋 , I'm Shubham Bawankar 
-<img src="/images/My Post (6).png">
+<img src="/images/">
 <!--
 **Shubham56-droid/Shubham56-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
