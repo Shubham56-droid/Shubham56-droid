@@ -3,7 +3,7 @@
 <h1 style="color:red;">About me</h1>
 <p>🌱 Courteous and enthusiastic, I'm intrested in computer science and everything in its orbit. I recently began to be fascinated by Web Programming. e.g. Front-end Development. I have gain the experience of working in this area through various platforms. As this area complements my studies, I am keen to gain more experienced in this field. For this reason, I am looking for a company to willing to offer me internship or part-time job among their developers. In return i will offer my full commitment and be a plesent and friendly addition to your team.</p>
 <hr>  
-<img width="399" height="320" src="/images/115956178-b4836f00-a53e-11eb-97da-17c8b1b3bf26.gif">
+<img width="399" height="320" src="/images/ezgif-3-b9bcd9ca4598.gif">
 <h1>Skills And Technology</h1>
 <img src="/images/My Post(skill).jpg">
 <!--
