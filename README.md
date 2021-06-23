@@ -2,7 +2,9 @@
 <h2>Hi 👋 , I'm <span style="color:blue;text-align:center;">Shubham Bawankar</span></h2>
 <h1 style="color:red;">About me</h1>
 <p>🌱 Courteous and enthusiastic, I'm intrested in computer science and everything in its orbit. I recently began to be fascinated by Web Programming. e.g. Front-end Development. I have gain the experience of working in this area through various platforms. As this area complements my studies, I am keen to gain more experienced in this field. For this reason, I am looking for a company to willing to offer me internship or part-time job among their developers. In return i will offer my full commitment and be a plesent and friendly addition to your team.</p>
-<center><img src="/images/115956178-b4836f00-a53e-11eb-97da-17c8b1b3bf26.gif" style="height:200px; width:250px;"></center>
+
+  
+<svg width="400" height="110"><img src="/images/115956178-b4836f00-a53e-11eb-97da-17c8b1b3bf26.gif"></svg> 
 <!--
 **Shubham56-droid/Shubham56-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
