@@ -5,7 +5,7 @@
 <hr>  
 <img width="399" height="320" src="/images/115956178-b4836f00-a53e-11eb-97da-17c8b1b3bf26.gif">
 <h1>Skills And Technology</h1>
-<img src="">
+<img src="/images/My Post(skill).jpg">
 <!--
 **Shubham56-droid/Shubham56-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
