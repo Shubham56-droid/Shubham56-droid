@@ -6,7 +6,7 @@
 <hr> 
 <h3>My Projects</h3>
 <p>View my  projects click <a href="https://github.com/Shubham56-droid?tab=stars">here</a></p>
-<img width="399" height="320" src="/images/ezgif-3-b9bcd9ca4598.gif">
+<img width="399" height="320" src="/images/boy-1.jpg">
 <h1>Skills And Technology</h1>
 <img src="/images/My Post(skill).jpg">
 <!--
