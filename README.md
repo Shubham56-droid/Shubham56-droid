@@ -1,4 +1,4 @@
-<img src="/images/My Post (6).png">
+
 <h2>Hi 👋 , I'm <span style="color:blue;text-align:center;">Shubham Bawankar</span></h2>
 <hr>
 <h1 style="color:red;">About me</h1>
