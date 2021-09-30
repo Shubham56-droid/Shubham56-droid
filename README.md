@@ -8,7 +8,7 @@
 <p>View my  projects click <a href="https://github.com/Shubham56-droid?tab=stars">here</a></p>
 <hr/> 
 <h1>Skills And Technology</h1>
-<img src="/images/My Post(skill).jpg">
+
 <!--
 **Shubham56-droid/Shubham56-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
