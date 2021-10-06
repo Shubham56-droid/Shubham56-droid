@@ -1,7 +1,7 @@
 
 <h2>Hi 👋 , I'm <span style="color:blue;text-align:center;">Shubham Bawankar</span></h2>
 <h2>About Me</h2>
--🔭 I’m currently a student at Chandigard University<br/>
+-🔭 I’m currently a CSE student at Chandigard University<br/>
 - 🌱 I’m currently learning Webdevelopement and DSA<br/>
 - 👯 I’m looking to work on AI/ML<br/>
 - 😄 Pronouns: he/him/his<br/>
