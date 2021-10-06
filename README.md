@@ -1,6 +1,6 @@
 
 <h2>Hi 👋 , I'm <span style="color:blue;text-align:center;">Shubham Bawankar</span></h2>
-[![Shubham Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham56-droid)](https://github.com/Shubham56-droid/github-readme-stats)
+[![Shubham Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham56-droid)](https://github.com/shubham56-droid/github-readme-stats)
 
 
 
