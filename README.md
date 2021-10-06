@@ -1,7 +1,7 @@
 
 <h2>Hi 👋 , I'm <span style="color:blue;text-align:center;">Shubham Bawankar</span></h2>
-<h1 style="color:red;">About me</h1>
-![Shubham Bawankar GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham56-droid&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
