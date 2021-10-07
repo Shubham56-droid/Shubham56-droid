@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him/his<br/>
 - ⚡ Fun fact: I love watching Anime And Listinig Music<br/>
 <br/>
-[![Shubham's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shubham56-droid&theme=dracula)](https://github.com/Shubham56-droid/github-readme-activity-graph)
+
 
 
 
