@@ -1,4 +1,4 @@
-<a href="https://github.com/Shubham56-droid"><img width="100%" height="auto" src="https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/7-New-programming-languages-for-developers-to-learn-in-2020-modified.png" height="175px"/></a>
+<a href="https://github.com/Shubham56-droid"><img width="40%" height="auto" src="https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/7-New-programming-languages-for-developers-to-learn-in-2020-modified.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Bawankar ✨</h1>
 <h3 align="center">I'm BE Computer Science Engneering Student</h3>
