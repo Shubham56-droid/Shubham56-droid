@@ -25,16 +25,14 @@
 
 ### Libraries & Framework :
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ### DevOps & Cloud Tools:
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## 🔎 Connect with me:<img width="90px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" />
@@ -42,6 +40,9 @@
 <a href="https://twitter.com/shubham99256136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shubham Bawankar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shubham.bawankar.129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shubham bawankar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shubham-bawankar-458342200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham bawankar" height="30" width="40" /></a>
+ 
+ <a href="shubhambawankar735@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/icons8-gmail.svg" alt="Shubham bawankar" height="30" width="40" /></a>
+ 
  <br/>
 </p>
 
