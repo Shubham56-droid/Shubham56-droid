@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love watching Anime And Listinig Music<br/>
 <br/>
 
-## 🔎 Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" />
+## 🔎 Connect with me:<img width="20px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" />
 <p align="center">
 <a href="https://twitter.com/shubham99256136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shubham Bawankar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shubham.bawankar.129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shubham bawankar" height="30" width="40" /></a>
