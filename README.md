@@ -1,6 +1,6 @@
 <p align="center"><img width="40%" height="auto" margin="auto" src="https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/7-New-programming-languages-for-developers-to-learn-in-2020-modified.png" height="175px"/></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Bawankar ✨</h1>
+<h1 align="center">Hi <img src="https://camo.githubusercontent.com/6e54fbd3a371488a2e5436edaba81ae59f441d3faf8893cb9af06b9859e0d94d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f756a726a39616f4f644e76584f2f67697068792e676966" width="30px">, I'm Shubham Bawankar ✨</h1>
 <h3 align="center">I'm BE Computer Science Engneering Student</h3>
 
 -🔭 I’m currently a CSE student at Chandigard University<br/>
