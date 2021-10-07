@@ -19,15 +19,6 @@
 </p>
 
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-
-<p align="left">
-    
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-      
-</p>
-
-
 ## 📊 My Github Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham56-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham Bawankar" /> </p>
