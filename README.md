@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" height="auto" margin="auto" src="https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/7-New-programming-languages-for-developers-to-learn-in-2020-modified.png" height="175px"/></p>
+<p align="center"><img width="40%" height="auto" margin="auto" src="https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/output-onlinegiftools.gif" height="175px"/></p>
 
 <h1 align="center">Hi <img src="https://c.tenor.com/s06Gjvmi4ocAAAAi/kawaii-cute.gif" width="40px" height="auto">, I'm Shubham Bawankar ✨</h1>
 <h3 align="center">I'm BE Computer Science Engneering Student</h3>
