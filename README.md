@@ -1,6 +1,8 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h2>Hi 👋 , I'm <span style="color:blue;text-align:center;">Shubham Bawankar</span></h2>
-<h2>About Me</h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Bawankar</h1>
+<h3 align="center">I'm a Computer Science (BE) Student</h3>
+
 -🔭 I’m currently a CSE student at Chandigard University<br/>
 - 🌱 I’m currently learning Webdevelopement and DSA<br/>
 - 👯 I’m looking to work on AI/ML<br/>
