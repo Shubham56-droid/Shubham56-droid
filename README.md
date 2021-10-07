@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/shubham-bawankar-458342200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham bawankar" height="30" width="40" /></a>
 </p>
 
-
+<br/>
 ## 📊 My Github Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham56-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham Bawankar" /> </p>
