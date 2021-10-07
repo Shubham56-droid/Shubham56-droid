@@ -22,9 +22,15 @@
 ## 📊 My Github Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham56-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham Bawankar" /> </p>
-<p align="left"> <br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubham56-droid" alt="Shubham Bawankar" /></br></a> </p>
+<p align="left"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubham56-droid" alt="Shubham Bawankar" />
+</a> 
+</p>
+
+<p align="center">
 <img src= "https://github-readme-stats.vercel.app/api?username=Shubham56-droid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham56-droid&layout=compact">
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham56-droid&" alt="Shubham56-droid" /></p>
 
 <!--
