@@ -53,7 +53,7 @@
 </a> 
 </p>
 
-<p align="center" width="90px">
+<p  width="90px">
 <img margin="20px" src= "https://github-readme-stats.vercel.app/api?username=Shubham56-droid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham56-droid&layout=compact">
 </p>
