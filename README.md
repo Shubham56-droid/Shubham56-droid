@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" height="auto" border-radius="50%" margin="auto" src="/images/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a557263323873626e4f52474f57356f796f68513036672e676966.gif" height="175px"/></p>
+<p align="center"><img width="40%" height="auto" margin="auto" src="/images/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a557263323873626e4f52474f57356f796f68513036672e676966.gif" height="175px"/></p>
 
 <h1 align="center">Hi <img src="https://c.tenor.com/s06Gjvmi4ocAAAAi/kawaii-cute.gif" width="40px" height="auto">, I'm Shubham✨</h1>
 
