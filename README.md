@@ -1,6 +1,6 @@
 <p align="center" width="100%" ><img width="50%" height="auto" align="center" src="/images/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a557263323873626e4f52474f57356f796f68513036672e676966.gif" height="175px"/></p>
 
-<h1 align="center">Hi <img src="https://c.tenor.com/s06Gjvmi4ocAAAAi/kawaii-cute.gif" width="40px" height="auto">, I'm Shubham✨</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/s06Gjvmi4ocAAAAi/kawaii-cute.gif" width="4px" height="auto">, I'm Shubham✨</h1>
 
 
 -🔭 I’m currently a CSE student at Chandigard University<br/>
