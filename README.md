@@ -59,4 +59,4 @@
 </p>
 <p align="center" width="100%" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham56-droid&" alt="Shubham56-droid" /></p>
 
-[![Shubham's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shubham56-droid&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shubham's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shubham56-droid&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
