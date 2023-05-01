@@ -1,4 +1,4 @@
-<p align="center" width="100%" ><img width="50%" height="auto" align="center" src="/images/output-onlinegiftools.gif" height="175px"/></p>
+<p align="center" width="100%" ><img src="https://www.canva.com/design/DAFhsnB-VRc/view"/></p>
 
 <h1 align="center">Hi <img src="https://c.tenor.com/s06Gjvmi4ocAAAAi/kawaii-cute.gif" width="auto" height="40px">, I'm Shubham✨</h1>
 
