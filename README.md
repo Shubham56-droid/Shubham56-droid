@@ -42,7 +42,6 @@
 ## 🔎 Connect with me:<img height="60px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" />
 <p align="center">
 <a href="https://twitter.com/shubham99256136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shubham Bawankar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/shubham.bawankar.129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shubham bawankar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shubham-bawankar-458342200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham bawankar" height="30" width="40" /></a>
 <a href="mailto:shubhambawankar735@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/icons8-gmail.svg" alt="Shubham bawankar" height="33" width="42" /></a>
 <br/>
