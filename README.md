@@ -64,5 +64,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shubham56-droid&bg_color=0b0014&color=ffea00&line=ff004c&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center" width="100%" >
-<img src="/images/">
+<img width="100%" height="30%" src="/images/881563d6444b370fa4ceea0c3183bb4c.gif">
 </p>
