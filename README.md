@@ -48,7 +48,7 @@
 ## 📊 My Github Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham56-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham Bawankar" /> </p>
-<p align="left"> 
+<p align="center" width="100%" >
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubham56-droid" alt="Shubham Bawankar" />
 </a> 
 </p>
