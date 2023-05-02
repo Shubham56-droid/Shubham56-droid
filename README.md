@@ -1,5 +1,5 @@
 <p align="center"> <img width="100%" src="/header.svg"/> </p>
-<p align="center"> <img src="/images/Hi i am shubham bawankar.svg"/></p>
+<p align="center"> <img src="/images/Hi ! I am Shubham Bawankar.svg"/></p>
 <p align="left">
   <p> -🔭 I’m currently a CSE student at Chandigard University</p>
   <p> - 🌱 I’m currently learning Webdevelopement and DSA</p>
