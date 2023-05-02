@@ -63,4 +63,4 @@
 
 [![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shubham56-droid&bg_color=0b0014&color=ffea00&line=ff004c&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/Shubham56-droid/Shubham56-droid/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Shubham56-droid/Shubham56-droid/blob/output/github-contribution-grid-snake.svg)
