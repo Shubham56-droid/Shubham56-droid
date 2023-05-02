@@ -3,6 +3,11 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/s06Gjvmi4ocAAAAi/kawaii-cute.gif" width="auto" height="40px">, I'm Shubham✨</h1>
 
 <p align="left">
+  <p> -🔭 I’m currently a CSE student at Chandigard University</p>
+                   <p> - 🌱 I’m currently learning Webdevelopement and DSA</p>
+                   <p> - 👯 I’m looking to work on AI/ML</p>
+                   <p> - 😄 Pronouns: Web Developer</p>
+                   <p> - ⚡ Fun fact: I love watching Anime And Listinig Music</p>
   <p align="center">
       <img width="100%" src="/header.svg"/>
   </p>
