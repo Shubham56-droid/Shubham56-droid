@@ -71,15 +71,19 @@
                         animation: rotate ease-in-out 1s infinite alternate;
                     }
                     p {
-                        font-size: 20px;
+                        font-size: 25px;
+                        font-weight: bold;
                         text-shadow: 0 1px 0 #efefef;
                         animation: 5s ease 0s normal forwards 1 fadeIn;
                     }
+                    p span{
+                        color: crimson;
+                     }
                 </style>
                 <div class="container">
                     
                     <h1>Welcome to <br/>My Github Profile</h1>
-                    <p>I am a Full Stack Developer</p>
+                    <p>I am a <span>Full Stack Developer</span></p>
                 </div>
             </div>
         </foreignObject>
