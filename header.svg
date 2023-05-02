@@ -77,7 +77,7 @@
                         animation: 5s ease 0s normal forwards 1 fadeIn;
                     }
                     p span{
-                        color: crimson;
+                        color: yellow;
                      }
                 </style>
                 <div class="container">
