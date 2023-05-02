@@ -56,9 +56,6 @@
                         border-radius: 10px;
                         color: white;
                         text-align: center;
-                        background-image: url("https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/imgback.gif");
-                        background-position: center;
-                        background-size: contain;
                     }
                     h1 {
                         font-size: 50px;
