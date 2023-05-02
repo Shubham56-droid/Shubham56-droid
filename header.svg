@@ -61,7 +61,7 @@
                         border-radius: 10px;
                         color: white;
                         text-align: center;
-                        background-image: url("./img/imgback.gif");
+                        background-image: url("/images/imgback.gif");
                         background-position: center;
                         background-size: contain;
                     }
