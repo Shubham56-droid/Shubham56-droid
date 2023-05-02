@@ -6,8 +6,9 @@
   <p> - 👯 I’m looking to work on AI/ML</p>
   <p> - 😄 Pronouns: Web Developer</p>
   <p> - ⚡ Fun fact: I love watching Anime And Listinig Music</p>
-
 </p>
+<br/>
+<img width="100%" src="/header.svg"/>
 <br/>
 
 ## Language :
