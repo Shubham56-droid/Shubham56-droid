@@ -1,4 +1,5 @@
 <img src="./headimg.svg" alt="intro" />
+<p align="center"><img src="images/Hi i am shubham bawankar.svg"/></p>
 <p align="left">
   <p> -🔭 I’m currently a CSE student at Chandigard University</p>
   <p> - 🌱 I’m currently learning Webdevelopement and DSA</p>
