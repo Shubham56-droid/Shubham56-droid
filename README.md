@@ -7,8 +7,6 @@
   <p> - 😄 Pronouns: Web Developer</p>
 </p>
 <br/>
-<img width="100%" src="/images/ezgif-1-3458c17723.gif"/>
-<br/>
 
 ## Language :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
